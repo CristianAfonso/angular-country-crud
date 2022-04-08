@@ -25,3 +25,7 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+
+## Descripción del alumno
+
+En esta aplicación podemos encontrar un formulario CRUD en el que se pueden observar diferentes países con un nombre, una capital y una lengua principal. En él se pueden crear, leer, actualizar y eliminar estos y nuevos países. Cuenta inicialmente con un array de 3 países con sus respectivas propiedades.
