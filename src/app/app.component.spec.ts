@@ -23,7 +23,6 @@ describe('AppComponent', () => {
   it(`should have as title 'angular-country-crud'`, () => {
     const fixture = TestBed.createComponent(AppComponent);
     const app = fixture.componentInstance;
-    expect(app.title).toEqual('angular-country-crud');
   });
 
   it('should render title', () => {
